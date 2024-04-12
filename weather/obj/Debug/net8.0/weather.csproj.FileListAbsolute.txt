@@ -1,0 +1,14 @@
+C:\Users\kadir\Desktop\works\weather\bin\Debug\net8.0\weather.exe
+C:\Users\kadir\Desktop\works\weather\bin\Debug\net8.0\weather.deps.json
+C:\Users\kadir\Desktop\works\weather\bin\Debug\net8.0\weather.runtimeconfig.json
+C:\Users\kadir\Desktop\works\weather\bin\Debug\net8.0\weather.dll
+C:\Users\kadir\Desktop\works\weather\bin\Debug\net8.0\weather.pdb
+C:\Users\kadir\Desktop\works\weather\obj\Debug\net8.0\weather.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kadir\Desktop\works\weather\obj\Debug\net8.0\weather.AssemblyInfoInputs.cache
+C:\Users\kadir\Desktop\works\weather\obj\Debug\net8.0\weather.AssemblyInfo.cs
+C:\Users\kadir\Desktop\works\weather\obj\Debug\net8.0\weather.csproj.CoreCompileInputs.cache
+C:\Users\kadir\Desktop\works\weather\obj\Debug\net8.0\weather.dll
+C:\Users\kadir\Desktop\works\weather\obj\Debug\net8.0\refint\weather.dll
+C:\Users\kadir\Desktop\works\weather\obj\Debug\net8.0\weather.pdb
+C:\Users\kadir\Desktop\works\weather\obj\Debug\net8.0\weather.genruntimeconfig.cache
+C:\Users\kadir\Desktop\works\weather\obj\Debug\net8.0\ref\weather.dll

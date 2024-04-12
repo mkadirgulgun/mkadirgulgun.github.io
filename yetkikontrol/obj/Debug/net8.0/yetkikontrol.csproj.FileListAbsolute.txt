@@ -1,0 +1,14 @@
+C:\Users\kadir\Desktop\works\yetkikontrol\bin\Debug\net8.0\yetkikontrol.exe
+C:\Users\kadir\Desktop\works\yetkikontrol\bin\Debug\net8.0\yetkikontrol.deps.json
+C:\Users\kadir\Desktop\works\yetkikontrol\bin\Debug\net8.0\yetkikontrol.runtimeconfig.json
+C:\Users\kadir\Desktop\works\yetkikontrol\bin\Debug\net8.0\yetkikontrol.dll
+C:\Users\kadir\Desktop\works\yetkikontrol\bin\Debug\net8.0\yetkikontrol.pdb
+C:\Users\kadir\Desktop\works\yetkikontrol\obj\Debug\net8.0\yetkikontrol.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kadir\Desktop\works\yetkikontrol\obj\Debug\net8.0\yetkikontrol.AssemblyInfoInputs.cache
+C:\Users\kadir\Desktop\works\yetkikontrol\obj\Debug\net8.0\yetkikontrol.AssemblyInfo.cs
+C:\Users\kadir\Desktop\works\yetkikontrol\obj\Debug\net8.0\yetkikontrol.csproj.CoreCompileInputs.cache
+C:\Users\kadir\Desktop\works\yetkikontrol\obj\Debug\net8.0\yetkikontrol.dll
+C:\Users\kadir\Desktop\works\yetkikontrol\obj\Debug\net8.0\refint\yetkikontrol.dll
+C:\Users\kadir\Desktop\works\yetkikontrol\obj\Debug\net8.0\yetkikontrol.pdb
+C:\Users\kadir\Desktop\works\yetkikontrol\obj\Debug\net8.0\yetkikontrol.genruntimeconfig.cache
+C:\Users\kadir\Desktop\works\yetkikontrol\obj\Debug\net8.0\ref\yetkikontrol.dll

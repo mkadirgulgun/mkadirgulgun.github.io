@@ -1,0 +1,14 @@
+C:\Users\kadir\Desktop\works\Paraüstü\obj\Debug\net8.0\Paraüstü.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kadir\Desktop\works\Paraüstü\obj\Debug\net8.0\Paraüstü.AssemblyInfoInputs.cache
+C:\Users\kadir\Desktop\works\Paraüstü\obj\Debug\net8.0\Paraüstü.AssemblyInfo.cs
+C:\Users\kadir\Desktop\works\Paraüstü\obj\Debug\net8.0\Paraüstü.csproj.CoreCompileInputs.cache
+C:\Users\kadir\Desktop\works\Paraüstü\bin\Debug\net8.0\Paraüstü.exe
+C:\Users\kadir\Desktop\works\Paraüstü\bin\Debug\net8.0\Paraüstü.deps.json
+C:\Users\kadir\Desktop\works\Paraüstü\bin\Debug\net8.0\Paraüstü.runtimeconfig.json
+C:\Users\kadir\Desktop\works\Paraüstü\bin\Debug\net8.0\Paraüstü.dll
+C:\Users\kadir\Desktop\works\Paraüstü\bin\Debug\net8.0\Paraüstü.pdb
+C:\Users\kadir\Desktop\works\Paraüstü\obj\Debug\net8.0\Paraüstü.dll
+C:\Users\kadir\Desktop\works\Paraüstü\obj\Debug\net8.0\refint\Paraüstü.dll
+C:\Users\kadir\Desktop\works\Paraüstü\obj\Debug\net8.0\Paraüstü.pdb
+C:\Users\kadir\Desktop\works\Paraüstü\obj\Debug\net8.0\Paraüstü.genruntimeconfig.cache
+C:\Users\kadir\Desktop\works\Paraüstü\obj\Debug\net8.0\ref\Paraüstü.dll
