@@ -1,0 +1,14 @@
+C:\Users\kadir\Desktop\works\C#\taşkağıtmakasV1\bin\Debug\net8.0\taşkağıtmakasV1.exe
+C:\Users\kadir\Desktop\works\C#\taşkağıtmakasV1\bin\Debug\net8.0\taşkağıtmakasV1.deps.json
+C:\Users\kadir\Desktop\works\C#\taşkağıtmakasV1\bin\Debug\net8.0\taşkağıtmakasV1.runtimeconfig.json
+C:\Users\kadir\Desktop\works\C#\taşkağıtmakasV1\bin\Debug\net8.0\taşkağıtmakasV1.dll
+C:\Users\kadir\Desktop\works\C#\taşkağıtmakasV1\bin\Debug\net8.0\taşkağıtmakasV1.pdb
+C:\Users\kadir\Desktop\works\C#\taşkağıtmakasV1\obj\Debug\net8.0\taşkağıtmakasV1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kadir\Desktop\works\C#\taşkağıtmakasV1\obj\Debug\net8.0\taşkağıtmakasV1.AssemblyInfoInputs.cache
+C:\Users\kadir\Desktop\works\C#\taşkağıtmakasV1\obj\Debug\net8.0\taşkağıtmakasV1.AssemblyInfo.cs
+C:\Users\kadir\Desktop\works\C#\taşkağıtmakasV1\obj\Debug\net8.0\taşkağıtmakasV1.csproj.CoreCompileInputs.cache
+C:\Users\kadir\Desktop\works\C#\taşkağıtmakasV1\obj\Debug\net8.0\taşkağıtmakasV1.dll
+C:\Users\kadir\Desktop\works\C#\taşkağıtmakasV1\obj\Debug\net8.0\refint\taşkağıtmakasV1.dll
+C:\Users\kadir\Desktop\works\C#\taşkağıtmakasV1\obj\Debug\net8.0\taşkağıtmakasV1.pdb
+C:\Users\kadir\Desktop\works\C#\taşkağıtmakasV1\obj\Debug\net8.0\taşkağıtmakasV1.genruntimeconfig.cache
+C:\Users\kadir\Desktop\works\C#\taşkağıtmakasV1\obj\Debug\net8.0\ref\taşkağıtmakasV1.dll

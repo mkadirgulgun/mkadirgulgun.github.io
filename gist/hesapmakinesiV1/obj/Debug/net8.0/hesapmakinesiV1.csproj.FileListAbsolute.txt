@@ -1,0 +1,14 @@
+C:\Users\kadir\Desktop\works\hesapmakinesiV1\obj\Debug\net8.0\hesapmakinesiV1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kadir\Desktop\works\hesapmakinesiV1\obj\Debug\net8.0\hesapmakinesiV1.AssemblyInfoInputs.cache
+C:\Users\kadir\Desktop\works\hesapmakinesiV1\obj\Debug\net8.0\hesapmakinesiV1.AssemblyInfo.cs
+C:\Users\kadir\Desktop\works\hesapmakinesiV1\obj\Debug\net8.0\hesapmakinesiV1.csproj.CoreCompileInputs.cache
+C:\Users\kadir\Desktop\works\hesapmakinesiV1\bin\Debug\net8.0\hesapmakinesiV1.exe
+C:\Users\kadir\Desktop\works\hesapmakinesiV1\bin\Debug\net8.0\hesapmakinesiV1.deps.json
+C:\Users\kadir\Desktop\works\hesapmakinesiV1\bin\Debug\net8.0\hesapmakinesiV1.runtimeconfig.json
+C:\Users\kadir\Desktop\works\hesapmakinesiV1\bin\Debug\net8.0\hesapmakinesiV1.dll
+C:\Users\kadir\Desktop\works\hesapmakinesiV1\bin\Debug\net8.0\hesapmakinesiV1.pdb
+C:\Users\kadir\Desktop\works\hesapmakinesiV1\obj\Debug\net8.0\hesapmakinesiV1.dll
+C:\Users\kadir\Desktop\works\hesapmakinesiV1\obj\Debug\net8.0\refint\hesapmakinesiV1.dll
+C:\Users\kadir\Desktop\works\hesapmakinesiV1\obj\Debug\net8.0\hesapmakinesiV1.pdb
+C:\Users\kadir\Desktop\works\hesapmakinesiV1\obj\Debug\net8.0\hesapmakinesiV1.genruntimeconfig.cache
+C:\Users\kadir\Desktop\works\hesapmakinesiV1\obj\Debug\net8.0\ref\hesapmakinesiV1.dll

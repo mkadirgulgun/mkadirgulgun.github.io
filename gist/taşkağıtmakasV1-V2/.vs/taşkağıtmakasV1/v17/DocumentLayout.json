@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kadir\\Desktop\\works\\C#\\ta\u015Fka\u011F\u0131tmakasV1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{82D5988A-4578-4493-905D-5D771B2FFF9E}|ta\u015Fka\u011F\u0131tmakasV1.csproj|c:\\users\\kadir\\desktop\\works\\c#\\ta\u015Fka\u011F\u0131tmakasv1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82D5988A-4578-4493-905D-5D771B2FFF9E}|ta\u015Fka\u011F\u0131tmakasV1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kadir\\Desktop\\works\\C#\\ta\u015Fka\u011F\u0131tmakasV1\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\kadir\\Desktop\\works\\C#\\ta\u015Fka\u011F\u0131tmakasV1\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAADgAAAAAAAAAAAAAAFgAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T13:41:17.78Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
