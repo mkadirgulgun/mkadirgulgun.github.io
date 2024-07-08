@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kadir\\Desktop\\works\\MVC\\FormCalismalari\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8891CD08-F064-48E6-BAB2-C8596AC2CB53}|FormCalismalari.csproj|c:\\users\\kadir\\desktop\\works\\mvc\\formcalismalari\\views\\contact\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8891CD08-F064-48E6-BAB2-C8596AC2CB53}|FormCalismalari.csproj|solutionrelative:views\\contact\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8891CD08-F064-48E6-BAB2-C8596AC2CB53}|FormCalismalari.csproj|c:\\users\\kadir\\desktop\\works\\mvc\\formcalismalari\\models\\contactmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8891CD08-F064-48E6-BAB2-C8596AC2CB53}|FormCalismalari.csproj|solutionrelative:models\\contactmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8891CD08-F064-48E6-BAB2-C8596AC2CB53}|FormCalismalari.csproj|c:\\users\\kadir\\desktop\\works\\mvc\\formcalismalari\\views\\contact\\kayit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8891CD08-F064-48E6-BAB2-C8596AC2CB53}|FormCalismalari.csproj|solutionrelative:views\\contact\\kayit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8891CD08-F064-48E6-BAB2-C8596AC2CB53}|FormCalismalari.csproj|c:\\users\\kadir\\desktop\\works\\mvc\\formcalismalari\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8891CD08-F064-48E6-BAB2-C8596AC2CB53}|FormCalismalari.csproj|solutionrelative:controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ContactController.cs",
+              "DocumentMoniker": "C:\\Users\\kadir\\Desktop\\works\\MVC\\FormCalismalari\\Controllers\\ContactController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ContactController.cs",
+              "ToolTip": "C:\\Users\\kadir\\Desktop\\works\\MVC\\FormCalismalari\\Controllers\\ContactController.cs",
+              "RelativeToolTip": "Controllers\\ContactController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABIAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T14:07:35.622Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ContactModel.cs",
+              "DocumentMoniker": "C:\\Users\\kadir\\Desktop\\works\\MVC\\FormCalismalari\\Models\\ContactModel.cs",
+              "RelativeDocumentMoniker": "Models\\ContactModel.cs",
+              "ToolTip": "C:\\Users\\kadir\\Desktop\\works\\MVC\\FormCalismalari\\Models\\ContactModel.cs",
+              "RelativeToolTip": "Models\\ContactModel.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAA1wBYAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T18:01:34.505Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "kayit.cshtml",
+              "DocumentMoniker": "C:\\Users\\kadir\\Desktop\\works\\MVC\\FormCalismalari\\Views\\Contact\\kayit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Contact\\kayit.cshtml",
+              "ToolTip": "C:\\Users\\kadir\\Desktop\\works\\MVC\\FormCalismalari\\Views\\Contact\\kayit.cshtml",
+              "RelativeToolTip": "Views\\Contact\\kayit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-18T16:34:05.009Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\kadir\\Desktop\\works\\MVC\\FormCalismalari\\Views\\Contact\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Contact\\Index.cshtml",
+              "ToolTip": "C:\\Users\\kadir\\Desktop\\works\\MVC\\FormCalismalari\\Views\\Contact\\Index.cshtml",
+              "RelativeToolTip": "Views\\Contact\\Index.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAsAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-18T15:44:36.286Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

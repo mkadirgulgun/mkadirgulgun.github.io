@@ -1,0 +1,21 @@
+﻿@model CheckoutViewModel
+
+<form method="post" action="/Checkout/ProcessPayment">
+    @foreach (var product in Model.Products)
+    {
+       <p> <input type="radio" name="selectedProduct" value="@product.Id" /> @product.Name
+            -@product.Price
+        </p>
+    <br />
+    }
+    <label for="amount">Enter Payment Amount:</label>
+    <input type="text" name="amount" id="amount" /><br />
+    <input type="submit" value="Submit Payment" />
+</form>
+
+@if (Model.PaymentError != null)
+{
+    <div class="error">
+        @Model.PaymentError
+    </div>
+}

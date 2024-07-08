@@ -1,0 +1,4 @@
+kiraz|20|179
+muz|30|17
+mango|50|38
+kadir|20|1

@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kadir\\Desktop\\works\\MVC\\UrunlerAppLast\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{99F39787-0FE3-454E-90A4-CA9B8497ECD1}|UrunlerApp.csproj|c:\\users\\kadir\\desktop\\works\\mvc\\urunlerapplast\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99F39787-0FE3-454E-90A4-CA9B8497ECD1}|UrunlerApp.csproj|solutionrelative:controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99F39787-0FE3-454E-90A4-CA9B8497ECD1}|UrunlerApp.csproj|c:\\users\\kadir\\desktop\\works\\mvc\\urunlerapplast\\views\\admin\\guncelle.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{99F39787-0FE3-454E-90A4-CA9B8497ECD1}|UrunlerApp.csproj|solutionrelative:views\\admin\\guncelle.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99F39787-0FE3-454E-90A4-CA9B8497ECD1}|UrunlerApp.csproj|c:\\users\\kadir\\desktop\\works\\mvc\\urunlerapplast\\models\\eklememodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99F39787-0FE3-454E-90A4-CA9B8497ECD1}|UrunlerApp.csproj|solutionrelative:models\\eklememodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EklemeModel.cs",
+              "DocumentMoniker": "C:\\Users\\kadir\\Desktop\\works\\MVC\\UrunlerAppLast\\Models\\EklemeModel.cs",
+              "RelativeDocumentMoniker": "Models\\EklemeModel.cs",
+              "ToolTip": "C:\\Users\\kadir\\Desktop\\works\\MVC\\UrunlerAppLast\\Models\\EklemeModel.cs",
+              "RelativeToolTip": "Models\\EklemeModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T19:50:41.697Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Guncelle.cshtml",
+              "DocumentMoniker": "C:\\Users\\kadir\\Desktop\\works\\MVC\\UrunlerAppLast\\Views\\Admin\\Guncelle.cshtml",
+              "RelativeDocumentMoniker": "Views\\Admin\\Guncelle.cshtml",
+              "ToolTip": "C:\\Users\\kadir\\Desktop\\works\\MVC\\UrunlerAppLast\\Views\\Admin\\Guncelle.cshtml",
+              "RelativeToolTip": "Views\\Admin\\Guncelle.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-19T19:52:57.485Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "C:\\Users\\kadir\\Desktop\\works\\MVC\\UrunlerAppLast\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AdminController.cs",
+              "ToolTip": "C:\\Users\\kadir\\Desktop\\works\\MVC\\UrunlerAppLast\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "Controllers\\AdminController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T19:23:14.253Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

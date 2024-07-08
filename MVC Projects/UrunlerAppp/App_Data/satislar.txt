@@ -1,0 +1,9 @@
+Kavun|100
+Elma|150
+Kavun|100
+Kavun|100
+Karpuz|250
+Şeftali|100
+Karpuz|250
+Karpuz|250
+Şeftali|100

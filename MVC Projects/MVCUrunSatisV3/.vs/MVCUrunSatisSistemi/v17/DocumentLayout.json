@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kadir\\Desktop\\works\\MVC\\MVCUrunSatisV3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{393B8FBA-63B9-4A21-96CB-AA23FD474463}|MVCUrunSatisSistemi.csproj|c:\\users\\kadir\\desktop\\works\\mvc\\mvcurunsatisv3\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{393B8FBA-63B9-4A21-96CB-AA23FD474463}|MVCUrunSatisSistemi.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{393B8FBA-63B9-4A21-96CB-AA23FD474463}|MVCUrunSatisSistemi.csproj|c:\\users\\kadir\\desktop\\works\\mvc\\mvcurunsatisv3\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{393B8FBA-63B9-4A21-96CB-AA23FD474463}|MVCUrunSatisSistemi.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{393B8FBA-63B9-4A21-96CB-AA23FD474463}|MVCUrunSatisSistemi.csproj|c:\\users\\kadir\\desktop\\works\\mvc\\mvcurunsatisv3\\views\\home\\paymentsuccess.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{393B8FBA-63B9-4A21-96CB-AA23FD474463}|MVCUrunSatisSistemi.csproj|solutionrelative:views\\home\\paymentsuccess.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\kadir\\Desktop\\works\\MVC\\MVCUrunSatisV3\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\kadir\\Desktop\\works\\MVC\\MVCUrunSatisV3\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAwwDoAAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T23:34:02.424Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\kadir\\Desktop\\works\\MVC\\MVCUrunSatisV3\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\kadir\\Desktop\\works\\MVC\\MVCUrunSatisV3\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAABoAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-21T22:27:44.498Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PaymentSuccess.cshtml",
+              "DocumentMoniker": "C:\\Users\\kadir\\Desktop\\works\\MVC\\MVCUrunSatisV3\\Views\\Home\\PaymentSuccess.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\PaymentSuccess.cshtml",
+              "ToolTip": "C:\\Users\\kadir\\Desktop\\works\\MVC\\MVCUrunSatisV3\\Views\\Home\\PaymentSuccess.cshtml",
+              "RelativeToolTip": "Views\\Home\\PaymentSuccess.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-23T11:26:58.278Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

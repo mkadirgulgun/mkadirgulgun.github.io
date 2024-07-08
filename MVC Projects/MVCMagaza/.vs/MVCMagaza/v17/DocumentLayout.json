@@ -1,0 +1,101 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kadir\\Desktop\\works\\MVC\\MVCMagaza\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{293A344E-7A6E-411B-BCA0-644F85D7CA84}|MVCMagaza.csproj|c:\\users\\kadir\\desktop\\works\\mvc\\mvcmagaza\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{293A344E-7A6E-411B-BCA0-644F85D7CA84}|MVCMagaza.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{293A344E-7A6E-411B-BCA0-644F85D7CA84}|MVCMagaza.csproj|c:\\users\\kadir\\desktop\\works\\mvc\\mvcmagaza\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{293A344E-7A6E-411B-BCA0-644F85D7CA84}|MVCMagaza.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{293A344E-7A6E-411B-BCA0-644F85D7CA84}|MVCMagaza.csproj|c:\\users\\kadir\\desktop\\works\\mvc\\mvcmagaza\\models\\shopmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{293A344E-7A6E-411B-BCA0-644F85D7CA84}|MVCMagaza.csproj|solutionrelative:models\\shopmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{293A344E-7A6E-411B-BCA0-644F85D7CA84}|MVCMagaza.csproj|c:\\users\\kadir\\desktop\\works\\mvc\\mvcmagaza\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{293A344E-7A6E-411B-BCA0-644F85D7CA84}|MVCMagaza.csproj|solutionrelative:views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{293A344E-7A6E-411B-BCA0-644F85D7CA84}|MVCMagaza.csproj|c:\\users\\kadir\\desktop\\works\\mvc\\mvcmagaza\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{293A344E-7A6E-411B-BCA0-644F85D7CA84}|MVCMagaza.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\kadir\\Desktop\\works\\MVC\\MVCMagaza\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\kadir\\Desktop\\works\\MVC\\MVCMagaza\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-16T09:46:20.324Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\kadir\\Desktop\\works\\MVC\\MVCMagaza\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\kadir\\Desktop\\works\\MVC\\MVCMagaza\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-16T09:45:20.402Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ShopModel.cs",
+              "DocumentMoniker": "C:\\Users\\kadir\\Desktop\\works\\MVC\\MVCMagaza\\Models\\ShopModel.cs",
+              "RelativeDocumentMoniker": "Models\\ShopModel.cs",
+              "ToolTip": "C:\\Users\\kadir\\Desktop\\works\\MVC\\MVCMagaza\\Models\\ShopModel.cs",
+              "RelativeToolTip": "Models\\ShopModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T22:27:16.407Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\kadir\\Desktop\\works\\MVC\\MVCMagaza\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\kadir\\Desktop\\works\\MVC\\MVCMagaza\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAwwBwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T22:10:00.053Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\kadir\\Desktop\\works\\MVC\\MVCMagaza\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\kadir\\Desktop\\works\\MVC\\MVCMagaza\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAM4AAAAAAAAAAAAAANwAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-14T21:40:14.163Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

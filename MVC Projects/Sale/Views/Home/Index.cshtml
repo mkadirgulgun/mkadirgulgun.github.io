@@ -1,0 +1,32 @@
+﻿@model List<Urun>
+
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+@Html.Raw(ViewData["Msg"])
+
+<form class="form-flex" method="post">
+    <ul class="liste">
+        @foreach (var urun in Model)
+        {
+            <li>
+                <label>
+                    @{
+                        string disabledAttribute = urun.Stok == 0 ? "disabled" : "";
+                    }
+
+                    <img src="@urun.ImgUrl" style="height:200px; width:225px" /> <br />
+                    <input type="radio"
+                           name="ad"
+                           value="@urun.Ad"
+                    @disabledAttribute
+                           required>
+                    @urun.Ad (Stok: @urun.Stok) @urun.Fiyat TL
+                </label>
+            </li>
+
+        }
+    </ul>
+    <p><input type="number" required name="para" placeholder="Fiyat giriniz"> <button>Satın Al</button></p>
+</form>

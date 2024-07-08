@@ -1,0 +1,11 @@
+muz|30
+muz|30
+mango|40
+mango|50
+kiraz|200
+mango|50
+kiraz|20
+muz|30
+kiraz|20
+kadir|20
+kadir|20

@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kadir\\Desktop\\works\\MVC\\UrunSatisSistemi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3962C1BE-2822-4FE9-BF0C-AC6C5C801993}|UrunSatisSistemi.csproj|c:\\users\\kadir\\desktop\\works\\mvc\\urunsatissistemi\\views\\urun\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3962C1BE-2822-4FE9-BF0C-AC6C5C801993}|UrunSatisSistemi.csproj|solutionrelative:views\\urun\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3962C1BE-2822-4FE9-BF0C-AC6C5C801993}|UrunSatisSistemi.csproj|c:\\users\\kadir\\desktop\\works\\mvc\\urunsatissistemi\\controllers\\uruncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3962C1BE-2822-4FE9-BF0C-AC6C5C801993}|UrunSatisSistemi.csproj|solutionrelative:controllers\\uruncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3962C1BE-2822-4FE9-BF0C-AC6C5C801993}|UrunSatisSistemi.csproj|c:\\users\\kadir\\desktop\\works\\mvc\\urunsatissistemi\\models\\satismodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3962C1BE-2822-4FE9-BF0C-AC6C5C801993}|UrunSatisSistemi.csproj|solutionrelative:models\\satismodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3962C1BE-2822-4FE9-BF0C-AC6C5C801993}|UrunSatisSistemi.csproj|c:\\users\\kadir\\desktop\\works\\mvc\\urunsatissistemi\\views\\urun\\basariliodeme.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3962C1BE-2822-4FE9-BF0C-AC6C5C801993}|UrunSatisSistemi.csproj|solutionrelative:views\\urun\\basariliodeme.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SatisModel.cs",
+              "DocumentMoniker": "C:\\Users\\kadir\\Desktop\\works\\MVC\\UrunSatisSistemi\\Models\\SatisModel.cs",
+              "RelativeDocumentMoniker": "Models\\SatisModel.cs",
+              "ToolTip": "C:\\Users\\kadir\\Desktop\\works\\MVC\\UrunSatisSistemi\\Models\\SatisModel.cs",
+              "RelativeToolTip": "Models\\SatisModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T12:53:51.286Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BasariliOdeme.cshtml",
+              "DocumentMoniker": "C:\\Users\\kadir\\Desktop\\works\\MVC\\UrunSatisSistemi\\Views\\Urun\\BasariliOdeme.cshtml",
+              "RelativeDocumentMoniker": "Views\\Urun\\BasariliOdeme.cshtml",
+              "ToolTip": "C:\\Users\\kadir\\Desktop\\works\\MVC\\UrunSatisSistemi\\Views\\Urun\\BasariliOdeme.cshtml",
+              "RelativeToolTip": "Views\\Urun\\BasariliOdeme.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-23T21:51:29.057Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UrunController.cs",
+              "DocumentMoniker": "C:\\Users\\kadir\\Desktop\\works\\MVC\\UrunSatisSistemi\\Controllers\\UrunController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UrunController.cs",
+              "ToolTip": "C:\\Users\\kadir\\Desktop\\works\\MVC\\UrunSatisSistemi\\Controllers\\UrunController.cs",
+              "RelativeToolTip": "Controllers\\UrunController.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAowDcAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T17:30:34.3Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\kadir\\Desktop\\works\\MVC\\UrunSatisSistemi\\Views\\Urun\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Urun\\Index.cshtml",
+              "ToolTip": "C:\\Users\\kadir\\Desktop\\works\\MVC\\UrunSatisSistemi\\Views\\Urun\\Index.cshtml*",
+              "RelativeToolTip": "Views\\Urun\\Index.cshtml*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC8AAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-22T16:46:30.402Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

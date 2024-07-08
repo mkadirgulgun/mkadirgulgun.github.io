@@ -1,0 +1,3 @@
+Kavun|200|0
+Karpuz|250|94
+Şeftali|100|95

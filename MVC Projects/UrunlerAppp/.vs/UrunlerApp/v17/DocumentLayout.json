@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kadir\\Desktop\\works\\MVC\\UrunlerApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0440DC9F-453D-4E78-9B24-570AEF6BB092}|UrunlerApp.csproj|c:\\users\\kadir\\desktop\\works\\mvc\\urunlerapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0440DC9F-453D-4E78-9B24-570AEF6BB092}|UrunlerApp.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0440DC9F-453D-4E78-9B24-570AEF6BB092}|UrunlerApp.csproj|c:\\users\\kadir\\desktop\\works\\mvc\\urunlerapp\\views\\home\\satisdetay.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0440DC9F-453D-4E78-9B24-570AEF6BB092}|UrunlerApp.csproj|solutionrelative:views\\home\\satisdetay.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0440DC9F-453D-4E78-9B24-570AEF6BB092}|UrunlerApp.csproj|c:\\users\\kadir\\desktop\\works\\mvc\\urunlerapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0440DC9F-453D-4E78-9B24-570AEF6BB092}|UrunlerApp.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0440DC9F-453D-4E78-9B24-570AEF6BB092}|UrunlerApp.csproj|c:\\users\\kadir\\desktop\\works\\mvc\\urunlerapp\\views\\home\\satinal.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0440DC9F-453D-4E78-9B24-570AEF6BB092}|UrunlerApp.csproj|solutionrelative:views\\home\\satinal.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0440DC9F-453D-4E78-9B24-570AEF6BB092}|UrunlerApp.csproj|c:\\users\\kadir\\desktop\\works\\mvc\\urunlerapp\\models\\satismodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0440DC9F-453D-4E78-9B24-570AEF6BB092}|UrunlerApp.csproj|solutionrelative:models\\satismodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0440DC9F-453D-4E78-9B24-570AEF6BB092}|UrunlerApp.csproj|c:\\users\\kadir\\desktop\\works\\mvc\\urunlerapp\\models\\rapormodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0440DC9F-453D-4E78-9B24-570AEF6BB092}|UrunlerApp.csproj|solutionrelative:models\\rapormodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0440DC9F-453D-4E78-9B24-570AEF6BB092}|UrunlerApp.csproj|c:\\users\\kadir\\desktop\\works\\mvc\\urunlerapp\\app_data\\satislar.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{0440DC9F-453D-4E78-9B24-570AEF6BB092}|UrunlerApp.csproj|solutionrelative:app_data\\satislar.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SatinAl.cshtml",
+              "DocumentMoniker": "C:\\Users\\kadir\\Desktop\\works\\MVC\\UrunlerApp\\Views\\Home\\SatinAl.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\SatinAl.cshtml",
+              "ToolTip": "C:\\Users\\kadir\\Desktop\\works\\MVC\\UrunlerApp\\Views\\Home\\SatinAl.cshtml",
+              "RelativeToolTip": "Views\\Home\\SatinAl.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-26T16:46:55.14Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\kadir\\Desktop\\works\\MVC\\UrunlerApp\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\kadir\\Desktop\\works\\MVC\\UrunlerApp\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-26T16:46:50.376Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RaporModel.cs",
+              "DocumentMoniker": "C:\\Users\\kadir\\Desktop\\works\\MVC\\UrunlerApp\\Models\\RaporModel.cs",
+              "RelativeDocumentMoniker": "Models\\RaporModel.cs",
+              "ToolTip": "C:\\Users\\kadir\\Desktop\\works\\MVC\\UrunlerApp\\Models\\RaporModel.cs",
+              "RelativeToolTip": "Models\\RaporModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T14:42:57.699Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SatisDetay.cshtml",
+              "DocumentMoniker": "C:\\Users\\kadir\\Desktop\\works\\MVC\\UrunlerApp\\Views\\Home\\SatisDetay.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\SatisDetay.cshtml",
+              "ToolTip": "C:\\Users\\kadir\\Desktop\\works\\MVC\\UrunlerApp\\Views\\Home\\SatisDetay.cshtml",
+              "RelativeToolTip": "Views\\Home\\SatisDetay.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-26T13:27:43.478Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SatisModel.cs",
+              "DocumentMoniker": "C:\\Users\\kadir\\Desktop\\works\\MVC\\UrunlerApp\\Models\\SatisModel.cs",
+              "RelativeDocumentMoniker": "Models\\SatisModel.cs",
+              "ToolTip": "C:\\Users\\kadir\\Desktop\\works\\MVC\\UrunlerApp\\Models\\SatisModel.cs",
+              "RelativeToolTip": "Models\\SatisModel.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwAwAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T13:25:45.677Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "satislar.txt",
+              "DocumentMoniker": "C:\\Users\\kadir\\Desktop\\works\\MVC\\UrunlerApp\\App_Data\\satislar.txt",
+              "RelativeDocumentMoniker": "App_Data\\satislar.txt",
+              "ToolTip": "C:\\Users\\kadir\\Desktop\\works\\MVC\\UrunlerApp\\App_Data\\satislar.txt",
+              "RelativeToolTip": "App_Data\\satislar.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-05-25T17:35:49.237Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\kadir\\Desktop\\works\\MVC\\UrunlerApp\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\kadir\\Desktop\\works\\MVC\\UrunlerApp\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T13:27:25.576Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

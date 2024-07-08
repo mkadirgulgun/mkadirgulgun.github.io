@@ -1,0 +1,28 @@
+﻿<h1>İletişim Formu</h1>
+
+<p>@ViewData["Hata"]</p>
+
+
+
+<form action="/Contact/Index" method="post">
+    <p><input type="text" name="ad" @* value="İsim" form içinde isim yazdırabiliyoruz. *@ placeholder="Ad" /></p>
+    <p><input type="text" name="soyad" placeholder="Soyad" /></p>
+    <p><input type="email" name="eposta" placeholder="E-Posta Adresi" /></p>
+    <p>Cinsiyet:
+        <select name="cinsiyet"> 
+            <option value="" disabled selected>Seçiniz</option>
+            <option value="K">Kadın</option>
+            <option value="E">Erkek</option>
+        </select>
+    </p>
+    <p><textarea name="adres" placeholder="Adres"></textarea></p>
+    <p>
+        Aranmak istediğiniz saat: <br />
+        <label><input type="radio" value="Sabah" name="aranmaSaati" /> Sabah</label>
+        <label><input type="radio" value="Öğle" name="aranmaSaati" /> Öğle</label>
+        <label><input type="radio" value="Akşam" name="aranmaSaati" /> Akşam</label>
+    </p>
+    <p><label><input type="checkbox" name="sozlesmeOnay" value="true"/> Kullanıcı sözleşmesini onaylıyor musunuz?</label></p>
+
+    <p><button>Gönder</button> <button type="reset">Temizle</button></p>
+</form>

@@ -1,0 +1,23 @@
+﻿@model List<Satis>
+<h3>Rapor</h3>
+
+<table class="table" style="width: 400px;">
+    <tr>
+        <th>Ürün adı</th>
+        <th>Toplam Satış</th>
+        <th>Satış Adedi</th>
+    </tr>
+    @foreach(var satis in Model)
+    {
+      <tr>
+            <td>@satis.UrunAdi</td>
+            <td>@satis.ToplamSatis.ToString("N") TL</td>
+            <td>@satis.Adet</td>
+
+      </tr>
+    }
+
+</table>
+
+
+<p style="font-weight: bold;">Toplam satış: @ViewBag.Toplam.ToString("N") TL</p>

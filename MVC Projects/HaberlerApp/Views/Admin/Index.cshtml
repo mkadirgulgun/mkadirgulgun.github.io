@@ -1,0 +1,12 @@
+﻿
+<h1>Yönetim Ekranı</h1>
+<h2>Haber Ekle</h2>
+<p>@ViewData["Hata"]</p>
+
+<form action="/Admin/Index" method="post">
+    <p>Başlık: <input required type="text" name="baslik" placeholder="Başlık" /></p>
+    <p>Slug: <input required type="text" name="slug" placeholder="Adres(Slug)" /></p>
+    <p>Detay: <textarea required name="detay" placeholder="Haber Detayı"></textarea></p>
+    <p><button>Ekle</button></p>
+</form>
+

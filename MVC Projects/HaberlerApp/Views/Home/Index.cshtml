@@ -1,0 +1,17 @@
+﻿@model List<Haber>
+
+
+@{
+    ViewData["Title"] = "Anasayfa";
+}
+
+
+<h1>Haberler</h1>
+
+
+@foreach (var newsItem in Model)
+{
+    <h4>@newsItem.Baslik</h4>
+    <hr />
+
+}
