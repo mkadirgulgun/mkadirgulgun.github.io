@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("HesapMakinesiV3")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d19b02314961b8a31e01b61ee4358401cbaab0ce")]
 [assembly: System.Reflection.AssemblyProductAttribute("HesapMakinesiV3")]
 [assembly: System.Reflection.AssemblyTitleAttribute("HesapMakinesiV3")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

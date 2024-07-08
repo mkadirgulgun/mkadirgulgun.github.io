@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\kadir\\Desktop\\works\\C#\\AlışverişV1\\AlışverişV1.csproj",
+      "projectUniqueName": "D:\\study\\mkadirgulgun.github.io\\gist\\AlışverişV1-V4\\AlışverişV1.csproj",
       "projectName": "AlışverişV1",
-      "projectPath": "C:\\Users\\kadir\\Desktop\\works\\C#\\AlışverişV1\\AlışverişV1.csproj",
+      "projectPath": "D:\\study\\mkadirgulgun.github.io\\gist\\AlışverişV1-V4\\AlışverişV1.csproj",
       "packagesPath": "C:\\Users\\kadir\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\kadir\\Desktop\\works\\C#\\AlışverişV1\\obj\\",
+      "outputPath": "D:\\study\\mkadirgulgun.github.io\\gist\\AlışverişV1-V4\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\kadir\\AppData\\Roaming\\NuGet\\NuGet.Config",

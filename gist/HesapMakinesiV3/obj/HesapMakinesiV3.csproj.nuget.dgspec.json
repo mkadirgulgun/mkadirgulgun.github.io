@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\kadir\\Desktop\\works\\C#\\HesapMakinesiV3\\HesapMakinesiV3.csproj": {}
+    "D:\\study\\mkadirgulgun.github.io\\gist\\HesapMakinesiV3\\HesapMakinesiV3.csproj": {}
   },
   "projects": {
-    "C:\\Users\\kadir\\Desktop\\works\\C#\\HesapMakinesiV3\\HesapMakinesiV3.csproj": {
+    "D:\\study\\mkadirgulgun.github.io\\gist\\HesapMakinesiV3\\HesapMakinesiV3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kadir\\Desktop\\works\\C#\\HesapMakinesiV3\\HesapMakinesiV3.csproj",
+        "projectUniqueName": "D:\\study\\mkadirgulgun.github.io\\gist\\HesapMakinesiV3\\HesapMakinesiV3.csproj",
         "projectName": "HesapMakinesiV3",
-        "projectPath": "C:\\Users\\kadir\\Desktop\\works\\C#\\HesapMakinesiV3\\HesapMakinesiV3.csproj",
+        "projectPath": "D:\\study\\mkadirgulgun.github.io\\gist\\HesapMakinesiV3\\HesapMakinesiV3.csproj",
         "packagesPath": "C:\\Users\\kadir\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kadir\\Desktop\\works\\C#\\HesapMakinesiV3\\obj\\",
+        "outputPath": "D:\\study\\mkadirgulgun.github.io\\gist\\HesapMakinesiV3\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\kadir\\AppData\\Roaming\\NuGet\\NuGet.Config",

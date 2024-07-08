@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\kadir\\Desktop\\works\\C#\\HesapMakinesiV2\\",
+  "WorkspaceRootPath": "D:\\study\\mkadirgulgun.github.io\\gist\\HesapMakinesiV2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D326949A-EFE0-4406-A3BA-D667038DC193}|HesapMakinesiV2.csproj|c:\\users\\kadir\\desktop\\works\\c#\\hesapmakinesiv2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D326949A-EFE0-4406-A3BA-D667038DC193}|HesapMakinesiV2.csproj|d:\\study\\mkadirgulgun.github.io\\gist\\hesapmakinesiv2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D326949A-EFE0-4406-A3BA-D667038DC193}|HesapMakinesiV2.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\kadir\\Desktop\\works\\C#\\HesapMakinesiV2\\Program.cs",
+              "DocumentMoniker": "D:\\study\\mkadirgulgun.github.io\\gist\\HesapMakinesiV2\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\kadir\\Desktop\\works\\C#\\HesapMakinesiV2\\Program.cs",
+              "ToolTip": "D:\\study\\mkadirgulgun.github.io\\gist\\HesapMakinesiV2\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAACsAAAAAAAAAAAAgwDEAAAAVAAAA",
+              "ViewState": "AQIAAAQAAAAAAAAAAAA1wDsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-15T22:18:43.895Z",
               "EditorCaption": ""
