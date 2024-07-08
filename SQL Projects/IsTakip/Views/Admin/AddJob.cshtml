@@ -1,0 +1,102 @@
+﻿@model List<JobModel>
+
+@{
+    ViewData["Title"] = "İlan Ekle";
+}
+
+<style>
+    .container {
+        max-width: 600px;
+        margin: 20px auto;
+        padding: 20px;
+        background-color: #fff;
+        border-radius: 8px;
+        box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    }
+
+    form {
+        display: flex;
+        flex-direction: column;
+    }
+
+    label {
+        margin-top: 10px;
+        font-weight: bold;
+    }
+
+    input[type="text"],
+    textarea,
+    select {
+        width: 100%;
+        padding: 8px;
+        margin-top: 5px;
+        margin-bottom: 10px;
+        border: 1px solid #ccc;
+        border-radius: 4px;
+        box-sizing: border-box;
+        font-size: 14px;
+    }
+
+    textarea {
+        resize: vertical;
+        min-height: 100px;
+    }
+
+    button.btn {
+        width: 100%;
+        padding: 10px;
+        margin-top: 10px;
+        font-size: 16px;
+        background-color: #007bff;
+        border: none;
+        color: #fff;
+        cursor: pointer;
+        border-radius: 4px;
+        transition: background-color 0.3s ease;
+    }
+
+        button.btn:hover {
+            background-color: #0056b3;
+        }
+
+    .alert {
+        margin-top: 10px;
+        padding: 10px;
+        border-radius: 4px;
+    }
+
+    .alert-primary {
+        background-color: #007bff;
+        color: #fff;
+    }
+</style>
+
+<div class="container">
+
+    <form class="row g-3 mb-1" method="post" action="/Admin/AddJob" autocomplete="off">
+
+        <label for="JobTitle">Eklenecek İş Başlığı</label>
+        <input type="text" name="JobTitle" required placeholder="Başlık" />
+
+        <label for="JobDetail">Eklenecek İş Detayı</label>
+        <textarea name="JobDetail" required placeholder="Detay"></textarea>
+
+        <label for="Person">İşi Yapacak Kişi</label>
+        <input type="text" class="form-control" name="Person" required placeholder="Ad Soyad" />
+
+        <label for="Status">İşin Durumu</label>
+        <select id="Status" name="Status">
+            <option value="1">Aktif</option>
+            <option value="2">Tamamlandı</option>
+        </select>
+
+        <button class="btn btn-primary">Ekle</button>
+
+        @if (ViewData["Mesaj"] != null)
+        {
+            <div class="alert alert-primary" role="alert">
+                @ViewData["Mesaj"]
+            </div>
+        }
+    </form>
+</div>

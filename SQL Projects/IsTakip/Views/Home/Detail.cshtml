@@ -1,0 +1,122 @@
+﻿@model JobModel
+<style>
+    body {
+        font-family: Arial, sans-serif;
+        margin: 20px;
+    }
+
+    h1 {
+        font-size: 24px;
+    }
+
+    h3 {
+        font-size: 20px;
+        margin-top: 20px;
+    }
+
+    hr {
+        border: 1px solid #000;
+    }
+
+    .main-content {
+        display: flex;
+    }
+
+    .content {
+        flex: 3;
+    }
+
+    .sidebar {
+        flex: 1;
+        text-align: right;
+        margin-left: 20px;
+    }
+
+    .job-detail {
+        margin-top: 10px;
+        line-height: 1.5;
+    }
+
+    .assigned-person {
+        margin-top: 10px;
+    }
+
+    .status-section {
+        margin-top: 10px;
+        display: flex;
+        align-items: center;
+        text-align: left;
+    }
+
+        .status-section label {
+            margin-right: 10px;
+        }
+
+        .status-section select {
+            margin-right: 10px;
+            padding: 5px;
+            font-size: 14px;
+        }
+
+        .status-section button {
+            padding: 5px 10px;
+            font-size: 14px;
+            cursor: pointer;
+        }
+
+    .action-buttons {
+        margin-top: 10px;
+        text-align: left;
+    }
+
+        .action-buttons form {
+            display: inline-block;
+            margin-right: 10px;
+        }
+
+        .action-buttons button {
+            padding: 5px 10px;
+            font-size: 14px;
+            cursor: pointer;
+        }
+
+    .job-date {
+        margin-top: 10px;
+        font-size: 14px;
+        color: #555;
+    }
+</style>
+<h1>İş Takip Sistemi</h1>
+<hr />
+<div class="main-content">
+    <div class="content">
+        <h3>@Model.JobTitle</h3>
+        <p class="job-detail">@Model.JobDetail</p>
+        <p class="assigned-person">Atanan Kişi: <strong>@Model.Person</strong></p>
+        <p class="job-date">İşin Açılma Tarihi: @Model.Date</p>
+    </div>
+    <div class="sidebar">
+        <div class="action-buttons">
+            <a href="/home/Duzenle/@Model.Id" class="btn btn-primary">Düzenle</a>
+            <a href="/home/Sil/@Model.Id" class="btn btn-primary" onclick="return confirm('Emin misin?')">Sil</a>
+        </div>
+        <div class="status-section">
+            <form action="/Home/ChangeStatus/@Model.Id" method="post">
+                <label for="Status">Durumu:</label>
+                <select id="Status" name="StatusId">
+                    @if (Model.Status == "Aktif")
+                    {
+                        <option value="1" selected>Aktif</option>
+                        <option value="2">Tamamlandı</option>
+                    }
+                    else
+                    {
+                        <option value="1">Aktif</option>
+                        <option value="2" selected>Tamamlandı</option>
+                    }
+                </select>
+                <button type="submit">Değiştir</button>
+            </form>
+        </div>
+    </div>
+</div>
