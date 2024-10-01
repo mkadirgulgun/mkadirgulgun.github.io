@@ -1,0 +1,192 @@
+﻿<style>
+    /* Styling for the table */
+    .table {
+        width: 100%;
+        max-width: 100%;
+        margin-bottom: 1.5rem;
+        background-color: #fce4ec; /* Açık pembe tonu */
+        border-collapse: collapse;
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        border-radius: 12px;
+        overflow: hidden;
+        transition: transform 0.2s;
+    }
+
+    .table:hover {
+        transform: scale(1.01);
+    }
+
+    /* Table headers */
+    .table th {
+        background: linear-gradient(45deg, #ffb2d9, #ec407a); /* Pembenin daha açık tonları */
+        color: white;
+        font-weight: bold;
+        border: 1px solid #ad1457;
+        padding: 1rem;
+        text-align: left;
+        text-transform: uppercase;
+        letter-spacing: 1px;
+        transition: background 0.3s ease;
+    }
+
+    .table th:hover {
+        background: linear-gradient(45deg, #ff94c2, #f06292); /* Hover için daha koyu tonlar */
+    }
+
+    /* Table cells */
+    .table td {
+        border: 1px solid #e1bee7;
+        padding: 1rem;
+        vertical-align: top;
+        transition: background-color 0.3s ease, color 0.3s ease;
+        font-size: 1rem;
+    }
+
+    .table td:hover {
+        background-color: #fce4ec; /* Hover için açık pembe tonu */
+        color: #c2185b; /* Metin rengi */
+    }
+
+    /* Alternating row colors */
+    .table tbody tr:nth-of-type(odd) {
+        background-color: #f3e5f5; /* Alternatif satır rengi */
+    }
+
+    /* Hover effect for rows */
+    .table tbody tr:hover {
+        background-color: #f8bbd0; /* Hover için satır rengi */
+        cursor: pointer;
+        transform: scale(1.02);
+    }
+
+    /* Styling for the table header row */
+    .table thead th {
+        border-bottom: 2px solid #ec407a; /* Header alt çizgisi */
+    }
+
+    /* Table title */
+    h1 {
+        font-size: 2.5rem;
+        margin-bottom: 1.5rem;
+        color: #333;
+        text-align: center;
+        text-transform: uppercase;
+        letter-spacing: 1.5px;
+        position: relative;
+        animation: titleFadeIn 2s ease-in-out;
+    }
+
+    keyframes titleFadeIn {
+        from {
+            opacity: 0;
+            top: -10px;
+        }
+        to {
+            opacity: 1;
+            top: 0;
+        }
+    }
+
+    /* Horizontal rule styling */
+    hr {
+        margin: 1.5rem 0;
+        border: 0;
+        border-top: 2px solid #ec407a; /* Alt çizgi rengi */
+        transition: width 0.5s ease-in-out;
+    }
+
+    hr:hover {
+        width: 50%; /* Hover için genişlik geçiş efekti */
+    }
+
+    /* Links */
+    .table a {
+        text-decoration: none;
+        color: #c49000; /* Altın sarısı */
+        position: relative;
+        transition: color 0.3s ease;
+    }
+
+    .table a:hover {
+        color: #a67700; /* Daha koyu Altın sarısı (hover için) */
+    }
+
+    .table a::after {
+        content: '';
+        position: absolute;
+        width: 100%;
+        height: 1px;
+        bottom: 0;
+        left: 0;
+        background-color: #c49000; /* Link alt çizgisi rengi (Altın sarısı) */
+        visibility: hidden;
+        transform: scaleX(0);
+        transition: all 0.3s ease-in-out;
+    }
+
+    .table a:hover::after {
+        visibility: visible;
+        transform: scaleX(1);
+    }
+
+    /* Responsive adjustments */
+    media (max-width: 768px) {
+        .table,
+        .table th,
+        .table td {
+            display: block;
+            width: 100%;
+        }
+
+        .table thead {
+            display: none;
+        }
+
+        .table tr {
+            margin-bottom: 1rem;
+        }
+
+        .table td {
+            text-align: right;
+            padding-left: 50%;
+            position: relative;
+        }
+
+        .table td::before {
+            content: attr(data-label);
+            position: absolute;
+            left: 0;
+            width: 50%;
+            padding-left: 1rem;
+            font-weight: bold;
+            text-align: left;
+            text-transform: uppercase;
+        }
+    }
+</style>
+
+<div class="container">
+    <h1>Tüm İşler</h1>
+    <hr />
+    <table class="table">
+        <thead>
+            <tr>
+                <th scope="col">İş</th>
+                <th scope="col">Durumu</th>
+                <th scope="col">Çalışan</th>
+                <th scope="col">Oluşturulma Tarihi</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <th scope="row"><a href="/home/detail/@item.Id">@item.JobTitle</a></th>
+                    <td>@item.Status</td>
+                    <td>@item.Person</td>
+                    <td>@item.Date</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>

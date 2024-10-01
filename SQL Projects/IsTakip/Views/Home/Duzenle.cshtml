@@ -1,0 +1,71 @@
+﻿@model JobModel
+
+<style>
+    .form-label {
+        font-weight: bold;
+    }
+
+    .form-control {
+        width: 100%;
+        padding: 10px;
+        margin-bottom: 15px;
+        border: 1px solid #ccc;
+        border-radius: 4px;
+        box-sizing: border-box;
+        font-size: 16px;
+    }
+
+    .btn {
+        padding: 12px 24px;
+        font-size: 16px;
+        background-color: #007bff;
+        border: none;
+        color: #fff;
+        cursor: pointer;
+        border-radius: 4px;
+        transition: background-color 0.3s ease;
+    }
+
+        .btn:hover {
+            background-color: #0056b3;
+        }
+
+    .form-group {
+        margin-bottom: 20px;
+    }
+
+    .form-title {
+        font-size: 24px;
+        margin-bottom: 30px;
+        text-align: center;
+    }
+
+    .form-container {
+        max-width: 600px;
+        margin: 0 auto;
+        padding: 20px;
+        background-color: #f8f9fa;
+        border: 1px solid #ccc;
+        border-radius: 8px;
+        box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    }
+</style>
+
+<div class="form-container">
+    <h2 class="form-title">İş Düzenle</h2>
+    <form method="post">
+        <div class="form-group">
+            <label class="form-label">İş Başlığı</label>
+            <input required type="text" value="@Model.JobTitle" class="form-control" name="JobTitle">
+        </div>
+        <div class="form-group">
+            <label class="form-label">İş Detayı</label>
+            <textarea required class="form-control" name="JobDetail" rows="4">@Model.JobDetail</textarea>
+        </div>
+        <div class="form-group">
+            <label class="form-label">İşi Yapacak Kişi</label>
+            <input required type="text" value="@Model.Person" class="form-control" name="Person">
+        </div>
+        <button class="btn btn-success">Güncelle</button>
+    </form>
+</div>
